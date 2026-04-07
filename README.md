@@ -42,8 +42,8 @@ The custom CNN architecture includes:
 
 | Metric                  | Score |
 |-------------------------|-------|
-| **Test Accuracy**       | ~97%  |
-| **F1 Score (macro avg)**| ~0.97 |
+| **Test Accuracy**       | ~90%  |
+| **F1 Score (macro avg)**| ~0.90 |
 | **AUC (Cyclone)**       | 1.00  |
 | **AUC (Earthquake)**    | 0.98  |
 | **AUC (Flood)**         | 0.98  |
